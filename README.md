@@ -241,10 +241,8 @@ IconButton(
 ),
 ```
 
-<video controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](https://img.youtube.com/vi/BCbd58SjgcI/0.jpg)](https://youtu.be/BCbd58SjgcI)
+
 
 
 
