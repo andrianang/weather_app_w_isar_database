@@ -241,13 +241,7 @@ IconButton(
 ),
 ```
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/BCbd58SjgcI?autoplay=1" 
-  title="Demo Video"
-  frameborder="0" 
-  allow="autoplay; encrypted-media" 
-  allowfullscreen>
-</iframe>
+[![Watch the demo](img.png)](https://youtu.be/BCbd58SjgcI)
 
 
 
